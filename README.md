@@ -1,2 +1,2 @@
 # AutoMailCleaner
-It refers to a solution that deletes emails according to a certain time period.
+This script is designed to automatically delete emails from Zimbra mailboxes based on a specified time range. It provides a scheduled cleanup function, removing emails that meet predefined age criteria, ensuring that your mailboxes remain organized and free of outdated or unnecessary messages. Ideal for maintaining optimal mailbox performance and preventing excessive storage usage.
